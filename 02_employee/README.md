@@ -10,7 +10,7 @@ If you think you have found an error in the posted results, please create a Gith
 
 ## Questions
 
-1. **List all the employees in order of descreasing salary**
+1. **List all the employees in order of decreasing salary**
 
 <table border="1">
   <tr>
